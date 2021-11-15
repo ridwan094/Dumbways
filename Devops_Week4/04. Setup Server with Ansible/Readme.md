@@ -77,4 +77,4 @@ private_key_file = ~/Downloads/server-aws-key.pem
 ![Gambar 8 Ansible](screenshot/gambar8.png)<br><br>
 
 **7. Check nginx dengan URL**<br>
-![Gambar 9 Ansible](screenshot/gambar9.png)<br><br>
+![Gambar 9 Ansible](screenshot/gambar9.png)<br><br>ho
